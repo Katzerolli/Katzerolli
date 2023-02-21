@@ -14,3 +14,13 @@
 <li>Adding features to Discord Bot's</li>
 <li>Learning new technologies</li>
 </ul>
+<h3>Some stats</h3>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Katzerolli&show_icons=true&theme=transparent" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katzerolli" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rolli" />
+</a>
