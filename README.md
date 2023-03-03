@@ -21,6 +21,3 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katzerolli" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rolli" />
-</a>
